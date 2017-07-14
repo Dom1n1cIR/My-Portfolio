@@ -1,2 +1,2 @@
 # My-Portfolio
-My Previous Portofolio before editting to the current profolio that I am using.
+My Previous Portofolio before editing to the current profolio that I am using.
